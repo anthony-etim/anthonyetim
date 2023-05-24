@@ -5,25 +5,25 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
-    content:
-      title: 
-      image:
-        filename:
-      cta:
-        label: 
-        url: 
-      cta_alt:
-        label: 
-        url: 
-      cta_note:
-        label:        
-      text: 
-    design:
-      background:
-        gradient_end: 
-        gradient_start: 
-        text_color_light: true
+  # - block: hero
+  #   content:
+  #     title: 
+  #     image:
+  #       filename:
+  #     cta:
+  #       label: 
+  #       url: 
+  #     cta_alt:
+  #       label: 
+  #       url: 
+  #     cta_note:
+  #       label:        
+  #     text: 
+  #   design:
+  #     background:
+  #       gradient_end: 
+  #       gradient_start: 
+  #       text_color_light: true
   - block: about.biography
     id: about
     content:

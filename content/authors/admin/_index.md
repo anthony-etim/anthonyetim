@@ -35,7 +35,7 @@ education:
   courses:
     - course: PhD in Electrical Engineering
       institution: Stanford University
-      year: Ongoing
+      year: 2027 (Expected)
     - course: BSc in Electrical Engineering
       institution: Villanova University
       year: 2021
