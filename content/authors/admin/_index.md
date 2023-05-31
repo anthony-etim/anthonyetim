@@ -34,7 +34,7 @@ interests:
 education:
   courses:
     - course: PhD in Electrical Engineering
-      institution: Stanford University
+      institution: Yale University
       year: 2027 (Expected)
     - course: BSc in Electrical Engineering
       institution: Villanova University
