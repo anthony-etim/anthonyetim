@@ -159,30 +159,47 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - certificate_url: https://www.coursera.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-25'
+          date_start: '2021-05-01'
           description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          title: Neural Networks and Deep Learning
+          organization: Villanova University
+          organization_url: https://www1.villanova.edu/
+          title: Dean’s Award for Academic Excellence
           url: ''
-        - certificate_url: https://www.edx.org
+        - certificate_url: 
           date_end: ''
-          date_start: '2021-01-01'
-          description: Formulated informed blockchain models, hypotheses, and use cases.
-          organization: edX
-          organization_url: https://www.edx.org
-          title: Blockchain Fundamentals
-          url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-        - certificate_url: https://www.datacamp.com
-          date_end: '2020-12-21'
-          date_start: '2020-07-01'
+          date_start: '2021-05-01'
           description: ''
-          organization: DataCamp
-          organization_url: https://www.datacamp.com
-          title: 'Object-Oriented Programming in R'
+          organization: Villanova University
+          organization_url: https://www1.villanova.edu/
+          title: Dean’s Award for Meritorious Service
           url: ''
+
+        # - certificate_url: https://www.coursera.org
+        #   date_end: ''
+        #   date_start: '2021-01-25'
+        #   description: ''
+        #   organization: Coursera
+        #   organization_url: https://www.coursera.org
+        #   title: Neural Networks and Deep Learning
+        #   url: ''
+        # - certificate_url: https://www.edx.org
+        #   date_end: ''
+        #   date_start: '2021-01-01'
+        #   description: Formulated informed blockchain models, hypotheses, and use cases.
+        #   organization: edX
+        #   organization_url: https://www.edx.org
+        #   title: Blockchain Fundamentals
+        #   url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+        # - certificate_url: https://www.datacamp.com
+        #   date_end: '2020-12-21'
+        #   date_start: '2020-07-01'
+        #   description: ''
+        #   organization: DataCamp
+        #   organization_url: https://www.datacamp.com
+        #   title: 'Object-Oriented Programming in R'
+        #   url: ''
     design:
       columns: '2'
   # - block: portfolio
@@ -243,7 +260,7 @@ sections:
         postcode: '06520'
         country: United States
         country_code: US
-      directions: Floor 5, Dunham Laboratory
+      directions: 5th Floor, Dunham Laboratory
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
@@ -274,4 +291,4 @@ sections:
       columns: '2'
 ---
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2996.841158586838!2d-72.9270589242399!3d41.312319000648586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e7d9b642fc7fc3%3A0xac0f89b6ff8adee2!2sDunham%20Laboratory%2C%2010%20Hillhouse%20Ave%2C%20New%20Haven%2C%20CT%2006511!5e0!3m2!1sen!2sus!4v1690060037768!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<!-- <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2996.841158586838!2d-72.9270589242399!3d41.312319000648586!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e7d9b642fc7fc3%3A0xac0f89b6ff8adee2!2sDunham%20Laboratory%2C%2010%20Hillhouse%20Ave%2C%20New%20Haven%2C%20CT%2006511!5e0!3m2!1sen!2sus!4v1690060037768!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe> -->
