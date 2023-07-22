@@ -62,7 +62,7 @@ sections:
         - title: Research Assistant
           company: Yale University
           company_url: 'https://www.yale.edu/'
-          company_logo: org-gc
+          company_logo: yale-logo-blue
           location: New Haven, Connecticut
           date_start: '2021-08-26'
           date_end: ''
@@ -74,8 +74,8 @@ sections:
           #     * Deploying
         - title: Research Assistant
           company: Villanova University
-          company_url: ''
-          company_logo: org-x
+          company_url: 'https://www1.villanova.edu/'
+          company_logo: villanova-logo
           location: Villanova, Pennsylvania
           date_start: '2018-03-01'
           date_end: '2021-05-31'
