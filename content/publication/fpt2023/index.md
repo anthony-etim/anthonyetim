@@ -9,7 +9,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: '2023-12-04T00:00:00Z'
-doi: '10.1145/3635312'
+doi: 10.1145/3635312
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -33,8 +33,8 @@ tags: [FPGA Security]
 # - Source Themes
 featured: false
 
-links:
-- name: URL
+# links:
+# - name: URL
 #   url: ""
 # url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3635312'
 # url_code: ''
