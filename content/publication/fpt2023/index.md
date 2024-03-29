@@ -24,7 +24,7 @@ publication_types: ["2"]
 publication: "ACM Transactions on Reconfigurable Technology and Systems (TRETS)"
 publication_short: 
 
-abstract: 
+abstract: 'Cloud computing providers today offer access to a variety of devices, which users can rent and access remotely in a shared setting. Among these devices are SmartSSDs, which a solid-state disks (SSD) augmented with an FPGA, enabling users to instantiate custom circuits within the FPGA, including potentially malicious circuits for power and temperature measurement. Normally, cloud users have no remote access to power and temperature data, but with SmartSSDs they could abuse the FPGA component to instantiate circuits to learn this information. Additionally, custom power waster circuits can be instantiated within the FPGA. This paper shows for the first time that by leveraging ring oscillator sensors and power wasters, numerous covert-channels in FPGA-enabled SmartSSDs could be used to transmit information. This work presents two channels in single-tenant setting (SmartSSD is used by one user at a time) and two channels in multi-tenant setting (FPGA and SSD inside SmartSSD is shared by different users). The presented covert channels can reach close to 100% accuracy. Meanwhile, bandwidth of the channels can be easily scaled by cloud users renting more SmartSSDs as the bandwidth of the covert channels is proportional to number of SmartSSD used.'
 
 # Summary. An optional shortened abstract.
 # summary: 
