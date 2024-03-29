@@ -77,8 +77,8 @@ sections:
               * Member of [Computer Architecture and Security (CASLAB) Lab.](https://caslab.csl.yale.edu/)
 
               Teaching Asistant:
-              * EENG200--[Introduction to Electronics] (Jun Han)
-              * EENG201--[Introduction to Computer Engineering] (Jakub Szefer)
+              * EENG200--Introduction to Electronics (Jung Han)
+              * EENG201--Introduction to Computer Engineering (Jakub Szefer)
 
         - title: Undergraduate Research Assistant
           company: Villanova University
@@ -99,9 +99,14 @@ sections:
         Quickly discover relevant content by [filtering publications](./publication/).
         {{% /callout %}}
       filters:
+        category: "selected"
         folders:
           - publication
         exclude_featured: false
+      archive:
+        enable: true
+        text: 'See all publications'
+        link: publication/
     design:
       columns: '2'
       view: citation
