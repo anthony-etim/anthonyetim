@@ -12,13 +12,13 @@ address:
   postcode: ''
   country: United States
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: 
+abstract: 'Field-Programmable Gate Arrays (FPGAs) are increasingly used in data centers and in cloud computing for acceleration of various applications. However, cloud-based FPGAs could be programmed with malicious circuits to leak information. For example, existing work has shown that long-wire crosstalk can be abused to leak information in cloud-based FPGAs. However, long-wire crosstalk is limited to very small spatial distances where the receiver needs to be located next to the transmitter or victim. This work shows how long-wire crosstalk can be extended to cross-FPGA information leakage with a novel Trojan phantom circuit. The phantom circuit is a self-contained circuit, isolated from other FPGA logic using a Ring Oscillator (RO) as a clock source. It uses crosstalk to spy on information and then amplifies the range of information leakage by triggering RO stressors for cross-FPGA information transmission with accuracy above 90%. In addition to demonstrating a new security threat, this work also presents the first set of active monitoring and defense mechanisms for protection from cross-FPGA information leakage.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
+date: '2024-05-17T13:00:00Z'
+date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
