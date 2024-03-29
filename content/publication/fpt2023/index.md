@@ -8,10 +8,10 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: "2023-12-04T00:00:00Z"
-doi: ""
+doi: "10.1145/3635312"
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2023-12-04T00:00:00Z"
+publishDate: ''
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -36,7 +36,6 @@ featured: false
 # - name: ""
 #   url: ""
 url_pdf: https://dl.acm.org/doi/10.1145/3635312
-# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -67,7 +66,7 @@ image:
 # slides: example
 ---
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
@@ -75,4 +74,4 @@ Click the *Cite* button above to demo the feature to enable visitors to import p
 Create your slides in Markdown - click the *Slides* button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/). -->
