@@ -21,7 +21,7 @@ publishDate: ''
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "ACM Transactions on Reconfigurable Technology and Systems (TRETS)"
+publication: "In ACM Transactions on Reconfigurable Technology and Systems (TRETS)"
 publication_short: 
 
 abstract: 
