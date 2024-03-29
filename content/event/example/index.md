@@ -1,3 +1,4 @@
+---
 title: Example Talk
 
 event: Wowchemy Conference
