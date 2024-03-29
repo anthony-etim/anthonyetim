@@ -4,11 +4,12 @@ authors:
 - Theodoros Trochatos
 - Anthony Etim
 - Jakub Szefer
+
 author_notes:
 - "Equal contribution"
 - "Equal contribution"
-date: "2023-12-04T00:00:00Z"
-doi: "10.1145/3635312"
+date: '2023-12-04T00:00:00Z'
+doi: '10.1145/3635312'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -26,7 +27,7 @@ publication_short: ""
 abstract: 
 
 # Summary. An optional shortened abstract.
-summary: 
+# summary: 
 
 tags: [FPGA Security]
 # - Source Themes
@@ -35,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://dl.acm.org/doi/10.1145/3635312
+url_pdf:'https://dl.acm.org/doi/10.1145/3635312'
 url_code: ''
 url_dataset: ''
 url_poster: ''
