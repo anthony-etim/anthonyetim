@@ -2,7 +2,7 @@
 title: "Covert-channels in FPGA-enabled SmartSSDs"
 authors:
 - Theodoros Trochatos
-- Anthony Etim
+- admin
 - Jakub Szefer
 
 author_notes:
