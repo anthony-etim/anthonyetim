@@ -274,6 +274,10 @@ sections:
         country: United States
         country_code: US
       directions: 5th Floor, Dunham Laboratory
+      # Choose a map provider in `params.yaml` to show a map from these coordinates
+      coordinates:
+        latitude: '41.3123'
+        longitude: '-72.9244' 
       # office_hours:
       #   - 'Monday 10:00 to 13:00'
       #   - 'Wednesday 09:00 to 10:00'
