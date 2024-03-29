@@ -1,15 +1,15 @@
 ---
-title: Example Talk
+title: Extending FPGA Information Leaks with Trojan Phantom Circuits
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 2024 International Symposium on Secure and Private Execution Environment Design (SEED 2024)
+event_url: https://seed-symposium.org/2024/
 
-location: Wowchemy HQ
+location: 2024 International Symposium on Secure and Private Execution Environment Design (SEED 2024)
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
+  street: 
+  city: Orlando
+  region: FL
+  postcode: ''
   country: United States
 
 summary: An example talk using Wowchemy's Markdown slides feature.
