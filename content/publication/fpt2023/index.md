@@ -36,14 +36,14 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3635312'
-url_code: ''
-url_dataset: ''
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
+# url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3635312'
+# url_code: ''
+# url_dataset: ''
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+# url_source: ''
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
