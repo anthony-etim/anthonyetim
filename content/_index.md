@@ -59,7 +59,7 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Research Assistant
+        - title: Graduate Research Assistant & Teaching Fellow
           company: Yale University
           company_url: 'https://www.yale.edu/'
           company_logo: yale-logo-blue
@@ -72,7 +72,15 @@ sections:
           #     * Analysing
           #     * Modelling
           #     * Deploying
-        - title: Research Assistant
+          description: |2-
+              Research Asistant:
+              * Member of [Computer Architecture and Security (CASLAB) Lab.](https://caslab.csl.yale.edu/)
+
+              Teaching Asistant:
+              * EENG200--[Introduction to Electronics](Jun Han)
+              * EENG201--[Introduction to Computer Engineering](Jakub Szefer)
+
+        - title: Undergraduate Research Assistant
           company: Villanova University
           company_url: 'https://www1.villanova.edu/'
           company_logo: villanova-logo
