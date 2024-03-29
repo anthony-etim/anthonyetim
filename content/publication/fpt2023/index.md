@@ -22,7 +22,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "ACM Transactions on Reconfigurable Technology and Systems (TRETS)"
-publication_short: ""
+publication_short: 
 
 abstract: 
 
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/pdf/10.1145/3635312'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -49,7 +49,7 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
   caption:  ''
-  focal_point: ""
+  focal_point: ''
   preview_only: false
 
 # Associated Projects (optional).
