@@ -77,5 +77,6 @@ email: 'anthony.etim@yale.edu'
 highlight_name: true
 ---
 
-Anthony Etim is a third year Ph.D. student at Computer Architecture and Security Lab, Yale University. His research interests lie in Computer architecture and Security, especially focusing on cloud infrastructures and the security of FPGA-accelerated cloud environments by evaluating and defending various types of side channels and covert channels, as well as how to enable secure multi-tenant Cloud FPGAs.
+Anthony Etim is a third year Ph.D. student at Computer Architecture and Security Lab, Yale University. His research interests lie in computer architecture and hardware security, as well as attacks and defenses in machine learning accelerators and algorithms to exploit vulnerabilities and leak sensitive information.
+<!-- Computer architecture and Security, especially focusing on cloud infrastructures and the security of FPGA-accelerated cloud environments by evaluating and defending various types of side channels and covert channels, as well as how to enable secure multi-tenant Cloud FPGAs. -->
 {style="text-align: justify;"}
