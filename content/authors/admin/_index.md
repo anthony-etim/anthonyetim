@@ -29,6 +29,7 @@ interests:
   - Hardware Security
   - FPGA Security
   - Cloud Infrastructure Security
+  - Machine Learning
 
 # Education to show in About widget
 education:
