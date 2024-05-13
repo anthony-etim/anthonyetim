@@ -17,7 +17,7 @@ abstract: 'Field-Programmable Gate Arrays (FPGAs) are increasingly used in data 
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-05-17T13:00:00Z'
+date: '2024-05-16T10:40:00Z'
 date_end: ''
 all_day: false
 
