@@ -1,5 +1,5 @@
 ---
-title: "Extending FPGA Information Leaks with Trojan Phantom Circuits"
+title: "Systematic Use of Random Self-Reducibility in Cryptographic Code against Physical Attacks"
 authors:
 - Ferhat Erata
 - TingHung Chiu
@@ -13,6 +13,7 @@ authors:
 - Jakub Szefer
 
 author_notes:
+- "Equal contribution"
 - "Equal contribution"
 - "Equal contribution"
 date: '2024-10-09T00:00:00Z'
