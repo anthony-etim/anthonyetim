@@ -37,6 +37,9 @@ education:
     - course: PhD in Electrical Engineering
       institution: Yale University
       year: 2026 (Expected)
+    - course: MSc, MPhil in Electrical Engineering
+      institution: Yale University
+      year: 2024
     - course: BSc in Electrical Engineering
       institution: Villanova University
       year: 2021
