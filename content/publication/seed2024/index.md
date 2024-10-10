@@ -24,12 +24,7 @@ publication_types: ["1"]
 publication: "IEEE International Symposium on Secure and Private Execution Environment Design (SEED)"
 publication_short: 
 
-abstract: 'Field-Programmable Gate Arrays (FPGAs) are increasingly used in data centers and in cloud computing for acceleration of various applications. However, cloud-based FPGAs could be programmed with malicious circuits to leak information. For example, existing work has shown that long-wire crosstalk can be abused to leak information in cloud-based FPGAs. However, long-wire crosstalk is limited to very small spatial distances where the receiver needs to be located next to the transmitter or victim on the same FPGA. This work shows how long-wire crosstalk can be extended to cross-FPGA information leakage with a novel Trojan phantom circuit. The
-phantom circuit is a self-contained circuit, isolated from rest of the FPGA logic. It uses crosstalk to spy on information
-within an FPGA and then exfiltrates the information across FPGAs by triggering RO stressors for cross-FPGA information
-transmission. The tested accuracy of the phantom circuits cross-FPGA information leakage channel can reach 90%. In addition
-to demonstrating a new security threat, this work also presents the first set of active monitoring and defense mechanisms for
-protection from cross-FPGA information leakage.'
+abstract: 'Field-Programmable Gate Arrays (FPGAs) are increasingly used in data centers and in cloud computing for acceleration of various applications. However, cloud-based FPGAs could be programmed with malicious circuits to leak information. For example, existing work has shown that long-wire crosstalk can be abused to leak information in cloud-based FPGAs. However, long-wire crosstalk is limited to very small spatial distances where the receiver needs to be located next to the transmitter or victim on the same FPGA. This work shows how long-wire crosstalk can be extended to cross-FPGA information leakage with a novel Trojan phantom circuit. The phantom circuit is a self-contained circuit, isolated from rest of the FPGA logic. It uses crosstalk to spy on information within an FPGA and then exfiltrates the information across FPGAs by triggering RO stressors for cross-FPGA information transmission. The tested accuracy of the phantom circuits cross-FPGA information leakage channel can reach 90%. In addition to demonstrating a new security threat, this work also presents the first set of active monitoring and defense mechanisms for protection from cross-FPGA information leakage.'
 
 # Summary. An optional shortened abstract.
 # summary: 
@@ -41,7 +36,7 @@ featured: false
 # links:
 # - name: URL
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://caslab.io/publications/etim2024extending.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
