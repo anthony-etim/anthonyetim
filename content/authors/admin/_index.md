@@ -26,10 +26,9 @@ bio: My research interests include  Hardware Security, FPGA Security, Cloud Infr
 
 # Interests to show in About widget
 interests:
+  - Machine Learning Security
   - Hardware Security
   - FPGA Security
-  - Cloud Infrastructure Security
-  - Machine Learning
 
 # Education to show in About widget
 education:
