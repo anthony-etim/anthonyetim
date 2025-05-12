@@ -9,7 +9,7 @@ author_notes:
 - "Equal contribution"
 - "Equal contribution"
 date: '2024-05-15T00:00:00Z'
-doi: 
+doi: 10.1109/SEED61283.2024.00011
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -36,7 +36,7 @@ featured: false
 # links:
 # - name: URL
 #   url: ""
-url_pdf: 'https://caslab.io/publications/etim2024extending.pdf'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10738361'
 url_code: ''
 url_dataset: ''
 url_poster: ''

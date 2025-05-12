@@ -74,7 +74,7 @@ sections:
           #     * Deploying
           description: |2-
               Research Asistant:
-              * Member of [Computer Architecture and Security (CASLAB) Lab.](https://caslab.csl.yale.edu/)
+              * Member of [Computer Architecture and Security (CASLAB) Lab.](https://caslab.io/)
 
               Teaching Asistant:
               * EENG 200--Introduction to Electronics (Jung Han)
