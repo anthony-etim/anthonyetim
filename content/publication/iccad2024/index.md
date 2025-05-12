@@ -44,7 +44,7 @@ featured: false
 # links:
 # - name: URL
 #   url: ""
-url_pdf: 'https://www.cs.yale.edu/homes/antonopoulos-timos/ICCAD-2024.pdf'
+url_pdf: 'https://dl.acm.org/doi/10.1145/3676536.3689920'
 url_code: ''
 url_dataset: ''
 url_poster: ''
