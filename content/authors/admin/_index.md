@@ -22,7 +22,7 @@ organizations:
     url: https://www.yale.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include  Hardware Security, FPGA Security, Cloud Infrastructure Security and Computer Architecture.
+bio: My research interests include Machine Learning Security, Hardware Security and FPGA Security.
 
 # Interests to show in About widget
 interests:
@@ -57,7 +57,7 @@ social:
     label: Follow me on Twitter
     display:
       header: true
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack or graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=rLp18joAAAAJ&hl=en
   - icon: github

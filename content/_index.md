@@ -59,6 +59,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Gen AI Intern
+          company: Scale AI
+          company_url: 'https://scale.com/'
+          company_logo: scale-ai-logo
+          location: New York, New York
+          date_start: '2025-06-26'
+          date_end: ''
+          description: |2-
+              Creating challenging problem datasets and quality assessment frameworks for large language models.
+
         - title: Graduate Research Assistant & Teaching Fellow
           company: Yale University
           company_url: 'https://www.yale.edu/'
