@@ -67,7 +67,7 @@ sections:
           date_start: '2025-06-26'
           date_end: ''
           description: |2-
-              Creating challenging problem datasets and quality assessment frameworks for large language models.
+              Benchmarked generative LLM reasoning on Olympiad-level tasks — conducted research to analyze AI reasoning capabilities, designed experiments to uncover failure modes, and inform model architecture improvements.
 
         - title: Graduate Research Assistant & Teaching Fellow
           company: Yale University
