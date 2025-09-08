@@ -2,13 +2,13 @@
 title: Covert-channels in FPGA-enabled SmartSSDs
 
 event: 2023 International Conference on Field-Programmable Technology (FPT 2023)
-event_url: https://seed-symposium.org/2024/
+event_url: http://fpt2023.org/
 
 location: 2023 International Conference on Field-Programmable Technology (FPT 2023)
 address:
   street: 
   city: Yokohoma
-  region: 
+  region: Kanagawa
   postcode: ''
   country: Japan
 
