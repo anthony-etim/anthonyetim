@@ -68,6 +68,7 @@ sections:
           date_end: ''
           description: |2-
               Designed domain-specific and adversarial evaluations for frontier LLMs; performed failure-mode analyses and delivered recommendations adopted in model updates.
+              
               Oversaw end-to-end training and fine-tuning of a code-reasoning LLM; developed C++/Python solutions for top-3% Olympiad problems, applied LoRA/PEFT to enhance chain-of-thought, and benchmarked Olympiad-level reasoning to surface failure modes that informed architecture improvements.
 
 
