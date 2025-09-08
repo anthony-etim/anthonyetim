@@ -67,7 +67,9 @@ sections:
           date_start: '2025-06-26'
           date_end: ''
           description: |2-
-              Benchmarked generative LLM reasoning on Olympiad-level tasks — conducted research to analyze AI reasoning capabilities, designed experiments to uncover failure modes, and inform model architecture improvements.
+              Designed domain-specific and adversarial evaluations for frontier LLMs; performed failure-mode analyses and delivered recommendations adopted in model updates.
+              Oversaw end-to-end training and fine-tuning of a code-reasoning LLM; developed C++/Python solutions for top-3% Olympiad problems, applied LoRA/PEFT to enhance chain-of-thought, and benchmarked Olympiad-level reasoning to surface failure modes that informed architecture improvements.
+
 
         - title: Graduate Research Assistant & Teaching Fellow
           company: Yale University
