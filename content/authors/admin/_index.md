@@ -39,7 +39,7 @@ education:
     - course: MSc, MPhil in Electrical Engineering
       institution: Yale University
       year: 2024
-    - course: BSc in Electrical Engineering
+    - course: BSc in Electrical Engineering, Minors in Computer Science and Computer Engineering
       institution: Villanova University
       year: 2021
 
