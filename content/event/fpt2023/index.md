@@ -18,7 +18,7 @@ abstract: 'Cloud computing providers today offer access to a variety of devices,
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2023-12-12T10:15:00Z'
-date_end: ''
+date_end: '2023-12-12T10:30:00Z'
 all_day: false
 
 # Schedule page publish date (NOT talk date).
