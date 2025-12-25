@@ -22,7 +22,7 @@ date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2024-03-16T00:00:00Z'
+publishDate: '2023-12-22T00:00:00Z'
 
 authors: ['Anthony Etim']
 tags: ['FPGA Security']
