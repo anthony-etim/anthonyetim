@@ -9,7 +9,7 @@ address:
   street: 
   city: Brooklyn
   region: New York
-  postcode: '11201'
+  postcode: ''
   country: United States
 
 summary: 
