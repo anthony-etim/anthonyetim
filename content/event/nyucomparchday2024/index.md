@@ -1,5 +1,5 @@
 ---
-title: Covert-channels in FPGA-enabled SmartSSDs
+title: Covert channels in FPGA-enabled SmartSSDs
 
 event: NYU Computer Architecture Day 2024
 event_url: https://baahl-nyu.github.io/nyucomparchday2024/
@@ -18,7 +18,7 @@ abstract: 'Cloud computing providers today offer access to a variety of devices,
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2024-03-22T16:00:00Z'
-date_end: '2024-03-22T16:15:00Z'
+date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
