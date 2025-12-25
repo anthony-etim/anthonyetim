@@ -1,5 +1,5 @@
 ---
-title: Covert-channels in FPGA-enabled SmartSSDs
+title: Covert-channels in FPGA-enabled SmartSSDs.
 
 event: NYU Computer Architecture Day 2024
 event_url: https://baahl-nyu.github.io/nyucomparchday2024/
