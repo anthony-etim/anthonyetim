@@ -22,7 +22,7 @@ date_end: ''
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2026-02-05T11:15:00ZZ'
+publishDate: '2026-02-02T11:15:00ZZ'
 
 authors: ['Anthony Etim']
 tags: ['Fault Injection Attacks and Countermeasures, Machine Learning, TinyML']
