@@ -1,10 +1,10 @@
 ---
 title: Fault Injection Attacks and Countermeasures on TinyML Algorithms
 
-event: "2026 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
+event: 2026 IEEE International Symposium on Hardware Oriented Security and Trust (HOST 2026)
 event_url: https://host.conferences.computer.org/2026/
 
-location: "2026 IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
+location: 2026 IEEE International Symposium on Hardware Oriented Security and Trust (HOST 2026)
 address:
   street: 
   city: 
