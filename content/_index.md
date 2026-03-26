@@ -63,9 +63,9 @@ sections:
           company: Google
           company_url: 'https://about.google/'
           company_logo: google-logo
-          location: New York, New York
-          date_start: '2025-06-26'
-          date_end: '2025-12-26'
+          location: Mountain View, California
+          date_start: '2026-06-01'
+          date_end: '2026-08-28'
           description: |2-
               Designed domain-specific and adversarial evaluations for frontier LLMs; performed failure-mode analyses and delivered recommendations adopted in model updates.
               
