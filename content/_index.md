@@ -66,7 +66,7 @@ sections:
           location: Mountain View, California
           date_start: '2026-06-01'
           date_end: '2026-08-28'
-          description: |2-
+          description: |1-
               Will contribute to Keras development for Gemma models, building training-related features and improving usability through testing and documentation.
               
         - title: Gen AI Intern
