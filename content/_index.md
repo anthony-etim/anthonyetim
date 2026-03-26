@@ -69,8 +69,6 @@ sections:
           description: |2-
               Will contribute to Keras development for Gemma models, building training-related features and improving usability through testing and documentation.
               
-              Oversaw end-to-end training and fine-tuning of a code-reasoning LLM; developed C++/Python solutions for top-3% Olympiad problems, applied LoRA/PEFT to enhance chain-of-thought, and benchmarked Olympiad-level reasoning to surface failure modes that informed architecture improvements.
-
         - title: Gen AI Intern
           company: Scale AI
           company_url: 'https://scale.com/'
