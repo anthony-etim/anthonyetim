@@ -67,7 +67,7 @@ sections:
           date_start: '2026-06-01'
           date_end: '2026-08-28'
           description: |2-
-              Designed domain-specific and adversarial evaluations for frontier LLMs; performed failure-mode analyses and delivered recommendations adopted in model updates.
+              Will contribute to Keras development for Gemma models, building training-related features and improving usability through testing and documentation.
               
               Oversaw end-to-end training and fine-tuning of a code-reasoning LLM; developed C++/Python solutions for top-3% Olympiad problems, applied LoRA/PEFT to enhance chain-of-thought, and benchmarked Olympiad-level reasoning to surface failure modes that informed architecture improvements.
 
