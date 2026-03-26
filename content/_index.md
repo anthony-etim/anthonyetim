@@ -59,13 +59,23 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
+        - title: Software Engineering Intern
+          company: Google
+          company_url: 'https://about.google/'
+          company_logo: google-logo
+          location: Mountain View, Californis
+          date_start: '2026-06-1'
+          date_end: '2026-08-28'
+          description: |2-
+              Will contribute to Keras development for Gemma models, building training-related features and improving usability through testing and documentation.
+
         - title: Gen AI Intern
           company: Scale AI
           company_url: 'https://scale.com/'
           company_logo: scale-ai-logo
           location: New York, New York
           date_start: '2025-06-26'
-          date_end: ''
+          date_end: '2025-12-26'
           description: |2-
               Designed domain-specific and adversarial evaluations for frontier LLMs; performed failure-mode analyses and delivered recommendations adopted in model updates.
               
