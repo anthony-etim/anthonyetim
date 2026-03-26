@@ -63,9 +63,9 @@ sections:
           company: Google
           company_url: 'https://about.google/'
           company_logo: google-logo
-          location: Mountain View, California
-          date_start: '2026-06-1'
-          date_end: '2026-08-28'
+          # location: Mountain View, California
+          # date_start: '2026-06-1'
+          # date_end: '2026-08-28'
           # description: |1-
           #     Will contribute to Keras development for Gemma models, building training-related features and improving usability through testing and documentation.
 
