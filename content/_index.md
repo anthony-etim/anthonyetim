@@ -61,13 +61,15 @@ sections:
       items:
         - title: Software Engineering Intern
           company: Google
-          # company_url: 'https://about.google/'
-          # company_logo: google-logo
-          # location: Mountain View, California
-          # date_start: '2026-06-1'
-          # date_end: '2026-08-28'
-          # description: |1-
-          #     Will contribute to Keras development for Gemma models, building training-related features and improving usability through testing and documentation.
+          company_url: 'https://about.google/'
+          company_logo: google-logo
+          location: New York, New York
+          date_start: '2025-06-26'
+          date_end: '2025-12-26'
+          description: |2-
+              Designed domain-specific and adversarial evaluations for frontier LLMs; performed failure-mode analyses and delivered recommendations adopted in model updates.
+              
+              Oversaw end-to-end training and fine-tuning of a code-reasoning LLM; developed C++/Python solutions for top-3% Olympiad problems, applied LoRA/PEFT to enhance chain-of-thought, and benchmarked Olympiad-level reasoning to surface failure modes that informed architecture improvements.
 
         - title: Gen AI Intern
           company: Scale AI
