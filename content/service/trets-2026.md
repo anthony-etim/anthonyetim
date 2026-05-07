@@ -12,7 +12,7 @@ address:
   postcode: ''
   country: ''
 
-summary: Served as reviewer for ACM Transactions on Reconfigurable Technology and Systems (TRETS) journal
+summary: Served as reviewer for ACM Transactions on Reconfigurable Technology and Systems (TRETS) journal.
 abstract: Reviewed research papers on technology, systems, and applications on reconfigurable computers or devices.
 
 # Review period
