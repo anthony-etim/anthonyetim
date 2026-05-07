@@ -192,6 +192,14 @@ sections:
       items:
         - certificate_url: 
           date_end: ''
+          date_start: '2026-05-06'
+          description: ''
+          organization: IEEE International Symposium on Hardware Oriented Security and Trust (HOST)
+          organization_url: https://host.conferences.computer.org/2026/
+          title: Best Student Paper Award
+          url: ''
+        - certificate_url: 
+          date_end: ''
           date_start: '2021-05-01'
           description: ''
           organization: Villanova University
