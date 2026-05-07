@@ -176,6 +176,16 @@ sections:
     design:
       columns: '2'
       view: compact
+  - block: collection
+    id: service
+    content:
+      title: Academic Service
+      filters:
+        folders:
+          - service
+    design:
+      columns: '2'
+      view: list
   - block: accomplishments
     id: awards
     content:
