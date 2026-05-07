@@ -16,8 +16,8 @@ main:
   # - name: Posts
   #   url: '#posts'
   #   weight: 40
-  - name: Presentations
-    url: '#presentations'
+  - name: Talks
+    url: '#talks'
     weight: 40
   - name: Awards
     url: '#awards'

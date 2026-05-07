@@ -167,9 +167,9 @@ sections:
   #     view: compact
   #     columns: '2'
   - block: collection
-    id: presentations
+    id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Talks
       filters:
         folders:
           - event
