@@ -19,15 +19,18 @@ main:
   - name: Talks
     url: '#talks'
     weight: 40
+  - name: Academic Service
+    url: '#service'
+    weight: 50
   - name: Awards
     url: '#awards'
-    weight: 50
+    weight: 60
   # - name: Talks
   #   url: '#talks'
   #   weight: 40
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
