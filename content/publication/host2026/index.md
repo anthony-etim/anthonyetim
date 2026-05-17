@@ -43,8 +43,8 @@ featured: false
 # links:
 # - name: URL
 #   url: ""
-url_pdf: ''
-url_code: ''
+url_pdf: 'https://bearhw.ece.vt.edu/content/dam/bearhw_ece_vt_edu/publications/2026_HOST_FIML.pdf'
+url_code: 'https://github.com/caslab-code/ml-fault-attacks-on-tinyml'
 url_dataset: ''
 url_poster: ''
 url_project: ''
