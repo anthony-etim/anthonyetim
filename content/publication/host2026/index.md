@@ -43,7 +43,7 @@ featured: false
 # links:
 # - name: URL
 #   url: ""
-url_pdf: 'host_2026.pdf'
+url_pdf: '/publication/host2026/host_2026.pdf'
 url_code: 'https://github.com/caslab-code/ml-fault-attacks-on-tinyml'
 url_dataset: ''
 url_poster: ''
