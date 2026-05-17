@@ -48,7 +48,7 @@ url_code: 'https://github.com/caslab-code/ml-fault-attacks-on-tinyml'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: '/publication/host2026/host_2026_slides.pptx'
 url_source: ''
 url_video: ''
 
