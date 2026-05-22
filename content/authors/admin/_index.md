@@ -28,6 +28,7 @@ bio: My research interests include Machine Learning Security, Hardware Security 
 interests:
   - Hardware Security
   - Machine Learning Security
+  - Quantum Error Correction
   - FPGA Security
 
 # Education to show in About widget
