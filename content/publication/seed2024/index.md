@@ -6,8 +6,8 @@ authors:
 - Jakub Szefer
 
 author_notes:
-- "Equal contribution"
-- "Equal contribution"
+# - "Equal contribution"
+# - "Equal contribution"
 date: '2024-05-15T00:00:00Z'
 doi: 10.1109/SEED61283.2024.00011
 
