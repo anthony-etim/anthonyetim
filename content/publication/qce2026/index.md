@@ -28,7 +28,7 @@ abstract: 'Machine-learning (ML) models are increasingly used in quantum computi
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags: [Fault Injection Attacks and Countermeasures, Machine Learning, TinyML]
+tags: [Fault Injection Attacks, Machine Learning, Quantum Control and Error Correction]
 # - Source Themes
 featured: false
 
