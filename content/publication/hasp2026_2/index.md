@@ -28,7 +28,7 @@ abstract: ''
 # Summary. An optional shortened abstract.
 # summary: 
 
-tags: [Fault injection attacks, Embedded machine learning, LLMs]
+tags: [Power side-channels, Machine learning, Quantum error correction]
 # - Source Themes
 featured: false
 
