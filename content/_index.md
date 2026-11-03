@@ -67,7 +67,7 @@ sections:
           date_start: '2026-06-01'
           date_end: '2026-08-28'
           description: |1-
-              Integrated vLLM into KerasHub to serve CausalLM models for TPU inference
+              Integrated vLLM into KerasHub to serve CausalLM models for TPU inference.
               
         - title: Gen AI Intern
           company: Scale AI
