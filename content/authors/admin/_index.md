@@ -36,7 +36,7 @@ education:
   courses:
     - course: PhD in Electrical Engineering
       institution: Yale University
-      year: 2027 (Expected)
+      year: 2027 
     - course: MSc, MPhil in Electrical Engineering
       institution: Yale University
       year: 2024
