@@ -8,7 +8,7 @@ author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
 date: '2026-05-03T00:00:00Z'
-doi: 
+doi: 10.1145/3857307.3857309
 
 # Schedule page publish date (NOT publication's date).
 publishDate: ''
@@ -23,7 +23,7 @@ publication_types: ["1"]
 publication: " International Workshop on Hardware and Architectural Support for Security and Privacy (HASP), 2026"
 publication_short: 
 
-abstract: ''
+abstract: 'Machine learning (ML) decoders are increasingly used in quantum error correction (QEC) to model noise, analyze imperfect syndrome measurements, and replace iterative matching algorithms with a learned inference pass, making them a critical component of the classical control stack of a fault-tolerant quantum computer. Prior security analysis of the ML decoders in the controller stack has addressed integrity and fault-injection attacks on the decoders. This work is the first to explore physical power side-channel attacks on ML decoders. In particular, it studies a convolutional Deep Q- Learning decoder for the distance-5 surface code. This work profiles the decoder to capture the power signatures generated during clas- sification tasks and trains a classifier to identify which qubit the decoder identified as having errors based on the power signatures. The trained classifier is then applied to test data, where it recovers the correct data qubit label from the decoder’s side-channel data with up to 83.2% accuracy across 25 classes, against 4% for random guessing. A second classifier is trained to identify the type of error labeled by the decoder, Pauli X or Z, and reaches 84.6% accuracy, against 50% for random guessing. This work further performs an initial study of a timing channel, which complements the power side channels, exploring how the duration of the decoder’s first convolutional layer can leak the code size for which the decoder is compiled. All the side-channel attacks demonstrated in this work motivate treating the embedded QEC decoder as a confidentiality-critical component of the quantum control stack.'
 
 # Summary. An optional shortened abstract.
 # summary: 
@@ -35,12 +35,12 @@ featured: false
 # links:
 # - name: URL
 #   url: ""
-url_pdf: ''
+url_pdf: 'https://dl.acm.org/doi/epdf/10.1145/3857307.3857309'
 url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: '/publication/hasp2026_2/hasp_2026_2_slides.pptx'
 url_source: ''
 url_video: ''
 
