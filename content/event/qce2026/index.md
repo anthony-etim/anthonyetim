@@ -4,7 +4,7 @@ title: Fault Attacks on ML-based Quantum Control and Error Correction
 event: 2026 IEEE International Conference on Quantum Computing and Engineering (QCE 2026)
 event_url: https://qce.quantum.ieee.org/2026/
 
-location: Metro Toronto Convention Centre
+location: 2026 IEEE International Conference on Quantum Computing and Engineering (QCE 2026)
 address:
   street:
   city: Toronto
