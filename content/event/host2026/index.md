@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2026-02-02T11:15:00Z'
 
-authors: ['Anthony Etim']
+authors: ['Anthony Etim', 'Jakub Szefer']
 tags: ['Fault Injection Attacks and Countermeasures, Machine Learning, TinyML']
 
 # Is this a featured talk? (true/false)
